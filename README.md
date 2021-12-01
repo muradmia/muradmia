@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @muradmia
 - 👀 I’m interested in Software developing
-- 🌱 I’m currently learning Cprogramming
+- 🌱 I’m currently learning C programming
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
